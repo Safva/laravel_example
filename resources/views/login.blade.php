@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>document</title>
 </head>
-<body>
+<body bgcolor="blue">
     <div style="height: 600px; width: 600px;  margin: 25px 300px 75px 300px; border:10px">
     <table cellpadding="10px"> 
         <tr>
